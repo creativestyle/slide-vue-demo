@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
-    "slide-vue": "https://github.com/noiff/slide-vue.git"
+    "slide-vue": "https://github.com/creativestyle/slide-vue.git"
   }
 }
