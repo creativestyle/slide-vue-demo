@@ -25,7 +25,7 @@
     "webpack-merge": "^5.1.4"
   },
   "dependencies": {
-    "vue": "^2.6.10",
-    "slide-vue": "https://github.com/creativestyle/slide-vue.git"
+    "slide-vue": "git+https://github.com/creativestyle/slide-vue.git",
+    "vue": "^2.6.10"
   }
 }
